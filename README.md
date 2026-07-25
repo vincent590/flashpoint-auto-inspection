@@ -1,0 +1,1 @@
+# flashpoint-auto-inspection
